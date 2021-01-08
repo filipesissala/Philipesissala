@@ -18,6 +18,12 @@
 <a target="_blank" href="https://fb.com/aryxb">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a><br>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Reactjs and React Native
+- 👯 I’m looking to collaborate on Open source projects
+- 💬 Always aiming at usability and code performance at all costs.
+- 😄 Pronouns: Learning any tecnology that apears on my way.
 <hr></hr>
 
 Hi i'm Filipe Sissala, but you can call me only <strong>Filipe</strong><br><br> i'm from Angola, <strong>21 years old</strong> and i'm studing to be a <strong>Full Stack Developer</strong>.<br><br> A <strong>Open source enthusiastic</strong>, <strong>anime and series lover</strong> and <strong>video-game player fan</strong>.<br>
@@ -36,12 +42,6 @@ Hi i'm Filipe Sissala, but you can call me only <strong>Filipe</strong><br><br> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Reactjs and React Native
-- 👯 I’m looking to collaborate on Open source projects
-- 💬 Always aiming at usability and code performance at all costs.
-- 😄 Pronouns: Learning any tecnology that apears on my way.
 
 ![Philipesissala GitHub Stats](https://github-readme-stats.vercel.app/api?username=Philipesissala&show_icons=true)
 <!--

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->Hi i'm Filipe Sissala, but you can call me only Filipe i'm from Angola, 21 years old and i'm studing to be a Full Stack Developer with stack Javascript, nodejs, Reactjs and React Native. A Open source enthusiastic, anime and series lover
+-->Hi i'm Filipe Sissala, but you can call me only Filipe i'm from Angola, 21 years old and i'm studing to be a Full Stack Developer with stack Javascript, nodejs, Reactjs and React Native. A Open source enthusiastic, anime and series lover.<br>
 
 <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 </a>
 <a target="_blank" href="https://fb.com/aryxb">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a><br>
+</a>
+<hr></hr>
 
 ![Philipesissala GitHub Stats](https://github-readme-stats.vercel.app/api?username=Philipesissala&show_icons=true)
 

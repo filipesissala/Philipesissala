@@ -3,6 +3,8 @@
 <!--
 **Philipesissala/Philipesissala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hi i'm Filipe Sissala, but you can call me only Filipe i'm from Angola, 21 years old and i'm studing to be a Full Stack Developer with stack Javascript, nodejs, Reactjs and React Native. A Open source enthusiastic, anime and series lover
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

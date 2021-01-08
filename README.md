@@ -20,7 +20,7 @@
 </a><br>
 <hr></hr>
 
-Hi i'm Filipe Sissala, but you can call me only Filipe<br> i'm from Angola, 21 years old and i'm studing to be a <strong>Full Stack Developer</strong> with stack Javascript, nodejs, Reactjs and React Native. A Open source enthusiastic, anime and series lover.<br>
+Hi i'm Filipe Sissala, but you can call me only <strong>Filipe</strong><br> i'm from Angola, 21 years old and i'm studing to be a <strong>Full Stack Developer</strong> with stack Javascript, nodejs, Reactjs and React Native. A Open source enthusiastic, anime and series lover.<br>
 
 <hr></hr>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

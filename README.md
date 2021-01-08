@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </a>
 <a target="_blank" href="https://fb.com/aryxb">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a><br>
 
 ![Philipesissala GitHub Stats](https://github-readme-stats.vercel.app/api?username=Philipesissala&show_icons=true)
 

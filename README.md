@@ -17,7 +17,7 @@
 </a><br>
 <hr></hr>
 
-Hi i'm Filipe Sissala, but you can call me only <strong>Filipe</strong><br><br> i'm from Angola, <strong>21 years old</strong> and i'm studing to be a <strong>Full Stack Developer</strong>.<br><br> A <strong>Open source enthusiastic</strong>, <strong>anime and series lover</strong> and <strong>video-game player fan</strong>.<br>
+Hi i'm Filipe Sissala, but you can call me only <strong>Filipe</strong><br><br> i'm from Angola, <strong>22 years old</strong> and i'm studing to be a <strong>Full Stack Developer</strong>.<br><br> A <strong>Open source enthusiastic</strong>, <strong>anime and series lover</strong> and <strong>video-game player fan</strong>.<br>
 
 - 🔭 I’m currently learning Reactjs and React Native
 - 👯 I’m looking to collaborate on Open source projects
